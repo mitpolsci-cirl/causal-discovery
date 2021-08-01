@@ -10,6 +10,14 @@ Literature about causal discovery
    - Does it reflect the Ground Truth well?   
    - (Corr vs Casuation) Soybean -> fed to -> Pig (and) Pig -> proceessed into -> Lad, Soybean will have correlation with Lad, however, that's not interpreted as direct neighbor in terms of SupplyChain
 
+## methodological class
+
+### score-based
+- generate a number of candidate causal graphs, assign a score to each, and select a final graph based on the scores. (combinatoric & search base)
+
+### constraint-based algorithms 
+- construct the causal structure based on conditional independence constraints, 
+- may more fit to current DL algorithms
 
 ## Refs
 
