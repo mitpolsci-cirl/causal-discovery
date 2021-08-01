@@ -18,6 +18,7 @@ Literature about causal discovery
 ### constraint-based algorithms 
 - construct the causal structure based on conditional independence constraints, 
 - may more fit to current DL algorithms
+- written by ElementAI https://arxiv.org/abs/2007.01754
 
 ## Lits
 - Causal Discovery
