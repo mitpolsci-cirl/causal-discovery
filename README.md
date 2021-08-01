@@ -31,3 +31,9 @@ Literature about causal discovery
 - Causal Induction - Fine line between Causal Discovery
    - "Methods are needed to automate the inference and identification of such causal variables (i.e. causal induction) from low-level state
 representations (like images)." (https://arxiv.org/pdf/2107.00848.pdf)
+
+## Key Terms
+- Structural Causal Models
+   - The existence of a directed edge from A to B indicates that intervening on A directly impacts B, and the absence of an edge indicates no direct interventional
+impact (see Appendix B for formal definitions). (* Does this explanation exclude Confoudings?)
+   - <img width="967" alt="Screen Shot 2021-08-01 at 11 11 11 PM" src="https://user-images.githubusercontent.com/21968222/127773977-400103e1-d185-41f7-ac97-47e82f8eaba1.png">
