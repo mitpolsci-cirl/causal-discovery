@@ -19,9 +19,11 @@ Literature about causal discovery
 - construct the causal structure based on conditional independence constraints, 
 - may more fit to current DL algorithms
 
-## Refs
-
-https://arxiv.org/pdf/2103.02582.pdf
+## Lits
+- Causal Discovery
+   - https://arxiv.org/pdf/2103.02582.pdf
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558187/
+   - https://www.nature.com/articles/s41598-020-59669-x
 
 
 ## discussable issue:
