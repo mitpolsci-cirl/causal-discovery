@@ -27,3 +27,5 @@ https://arxiv.org/pdf/2103.02582.pdf
 ## discussable issue:
 - Causual Discovery and Useo of Observational Data, or Including Interventional Data.
 - Causal Induction - Fine line between Causal Discovery
+   - "Methods are needed to automate the inference and identification of such causal variables (i.e. causal induction) from low-level state
+representations (like images)." (https://arxiv.org/pdf/2107.00848.pdf)
