@@ -22,3 +22,8 @@ Literature about causal discovery
 ## Refs
 
 https://arxiv.org/pdf/2103.02582.pdf
+
+
+## discussable issue:
+- Causual Discovery and Useo of Observational Data, or Including Interventional Data.
+- Causal Induction - Fine line between Causal Discovery
