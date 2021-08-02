@@ -38,3 +38,7 @@ representations (like images)." (https://arxiv.org/pdf/2107.00848.pdf)
    - The existence of a directed edge from A to B indicates that intervening on A directly impacts B, and the absence of an edge indicates no direct interventional
 impact (see Appendix B for formal definitions). (* Does this explanation exclude Confoudings?)
    - <img width="967" alt="Screen Shot 2021-08-01 at 11 11 11 PM" src="https://user-images.githubusercontent.com/21968222/127773977-400103e1-d185-41f7-ac97-47e82f8eaba1.png">
+
+- Definition of Model Based RL (MBRL)
+   - <img width="342" alt="Screen Shot 2021-08-02 at 12 28 21 PM" src="https://user-images.githubusercontent.com/21968222/127800707-8b5648ca-6042-414f-b490-201727083a40.png">
+  
