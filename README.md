@@ -20,6 +20,9 @@ representations (like images)." (https://arxiv.org/pdf/2107.00848.pdf)
 
 - Evaluation Metric for Causal Discovery
    - <img width="992" alt="Screen Shot 2021-08-02 at 7 38 28 PM" src="https://user-images.githubusercontent.com/21968222/127848920-a63643e1-86de-4ccd-ac73-6e32135b2b4d.png">
+   - Reconstruction Loss
+   <img width="597" alt="Screen Shot 2021-08-02 at 10 01 55 PM" src="https://user-images.githubusercontent.com/21968222/127866193-0c0b8237-25ce-479e-9119-e7f92519fe85.png">
+   - https://arxiv.org/pdf/2107.00848.pdf
 
 
 
