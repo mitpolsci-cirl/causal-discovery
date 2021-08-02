@@ -1,15 +1,6 @@
 # causal-discovery
 Literature about causal discovery
 
-
-## analogy of SuppChain to Causal Relations
-- Input A -> Output B interpreted as Causal Relation.
-   - Any loophole in this relationship?
-
-- (Emprical) How's the output result causal graph discovered by current literature over SuppChian 
-   - Does it reflect the Ground Truth well?   
-   - (Corr vs Casuation) Soybean -> fed to -> Pig (and) Pig -> proceessed into -> Lad, Soybean will have correlation with Lad, however, that's not interpreted as direct neighbor in terms of SupplyChain
-
 ## methodological class
 
 ### score-based
@@ -47,5 +38,13 @@ impact (see Appendix B for formal definitions). (* Does this explanation exclude
 - Definition of Model Based RL (MBRL)
    - <img width="342" alt="Screen Shot 2021-08-02 at 12 28 21 PM" src="https://user-images.githubusercontent.com/21968222/127800707-8b5648ca-6042-414f-b490-201727083a40.png">
   
-  
+## Application
+### Analogy of Supply Chain to Causal Relations between Commodities 
+- Input A -> Output B interpreted as Causal Relation.
+   - Most Causal Discovery literatures set acyclicity but Supply Chain is't necessarily acyclic. 
+
+- (Emprical) How's the output result causal graph discovered by current literature over SuppChian 
+   - Does it reflect the Ground Truth well?   
+   - (Corr vs Casuation) Soybean -> fed to -> Pig (and) Pig -> proceessed into -> Lad, Soybean will have correlation with Lad, however, that's not interpreted as direct neighbor in terms of SupplyChain
+
 
