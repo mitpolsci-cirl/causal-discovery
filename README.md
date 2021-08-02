@@ -2,13 +2,16 @@
 
 ## classification of CD methods
 
+<img width="937" alt="Screen Shot 2021-08-02 at 9 59 19 PM" src="https://user-images.githubusercontent.com/21968222/127865870-35c6b022-12b3-4320-82f8-054b7fd828fd.png">
+
+- from https://arxiv.org/pdf/2103.02582.pdf
+
 ### 1. Score-based
 - generate a number of candidate causal graphs, assign a score to each, and select a final graph with the highest score. (combinatoric & search base)
 
 ### 2. Constraint-based algorithms 
 - construct the causal structure based on conditional independence constraints, 
 - may more fit to current DL algorithms
-- written by ElementAI https://arxiv.org/abs/2007.01754
 
 ## Lits
 - Causal Discovery
