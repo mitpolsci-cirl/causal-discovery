@@ -2,10 +2,6 @@
 
 ## classification of CD methods
 
-<img width="937" alt="Screen Shot 2021-08-02 at 9 59 19 PM" src="https://user-images.githubusercontent.com/21968222/127865870-35c6b022-12b3-4320-82f8-054b7fd828fd.png">
-
-- from https://arxiv.org/pdf/2103.02582.pdf
-
 ### 1. Score-based
 - generate a number of candidate causal graphs, assign a score to each, and select a final graph with the highest score. (combinatoric & search base)
 
@@ -13,12 +9,8 @@
 - construct the causal structure based on conditional independence constraints, 
 - may more fit to current DL algorithms
 
-## Lits
-- Causal Discovery
-   - https://arxiv.org/pdf/2103.02582.pdf
-   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558187/
-   - https://www.nature.com/articles/s41598-020-59669-x
-
+<img width="937" alt="Screen Shot 2021-08-02 at 9 59 19 PM" src="https://user-images.githubusercontent.com/21968222/127865870-35c6b022-12b3-4320-82f8-054b7fd828fd.png">
+- from https://arxiv.org/pdf/2103.02582.pdf
 
 ## discussable issue:
 - Causual Discovery and Useo of Observational Data, or Including Interventional Data.
@@ -48,5 +40,11 @@ impact (see Appendix B for formal definitions). (* Does this explanation exclude
 - (Emprical) How's the output result causal graph discovered by current literature over SuppChian 
    - Does it reflect the Ground Truth well?   
    - (Corr vs Casuation) Soybean -> fed to -> Pig (and) Pig -> proceessed into -> Lad, Soybean will have correlation with Lad, however, that's not interpreted as direct neighbor in terms of SupplyChain
+
+## Literatures
+- Causal Discovery
+   - https://arxiv.org/pdf/2103.02582.pdf
+   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6558187/
+   - https://www.nature.com/articles/s41598-020-59669-x
 
 
