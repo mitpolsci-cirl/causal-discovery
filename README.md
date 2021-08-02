@@ -1,6 +1,6 @@
 # causal-discovery
 
-## classification of CD methods
+## Classification of Causal Discovery Methods
 
 ### 1. Score-based
 - generate a number of candidate causal graphs, assign a score to each, and select a final graph with the highest score. (combinatoric & search base)
@@ -12,7 +12,7 @@
 <img width="937" alt="Screen Shot 2021-08-02 at 9 59 19 PM" src="https://user-images.githubusercontent.com/21968222/127865870-35c6b022-12b3-4320-82f8-054b7fd828fd.png">
 - from https://arxiv.org/pdf/2103.02582.pdf
 
-## discussable issue:
+## Discussable issue:
 - Causual Discovery and Useo of Observational Data, or Including Interventional Data.
 - Causal Induction - Fine line between Causal Discovery
    - "Methods are needed to automate the inference and identification of such causal variables (i.e. causal induction) from low-level state
@@ -23,8 +23,6 @@ representations (like images)." (https://arxiv.org/pdf/2107.00848.pdf)
    - Reconstruction Loss
    <img width="597" alt="Screen Shot 2021-08-02 at 10 01 55 PM" src="https://user-images.githubusercontent.com/21968222/127866193-0c0b8237-25ce-479e-9119-e7f92519fe85.png">
    - https://arxiv.org/pdf/2107.00848.pdf
-
-
 
 ## Key Terms
 - Structural Causal Models
