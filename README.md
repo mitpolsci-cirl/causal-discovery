@@ -3,7 +3,7 @@
 ## classification of CD methods
 
 ### 1. Score-based
-- generate a number of candidate causal graphs, assign a score to each, and select a final graph based on the scores. (combinatoric & search base)
+- generate a number of candidate causal graphs, assign a score to each, and select a final graph with the highest score. (combinatoric & search base)
 
 ### 2. Constraint-based algorithms 
 - construct the causal structure based on conditional independence constraints, 
