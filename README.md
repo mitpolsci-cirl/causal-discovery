@@ -1,4 +1,3 @@
-
 # causal-discovery
 
 ## Classification of Causal Discovery Methods
@@ -48,6 +47,11 @@ impact (see Appendix B for formal definitions). (* Does this explanation exclude
 - (Emprical) How's the output result causal graph discovered by current literature over SuppChian 
    - Does it reflect the Ground Truth well?   
    - (Corr vs Casuation) Soybean -> fed to -> Pig (and) Pig -> proceessed into -> Lad, Soybean will have correlation with Lad, however, that's not interpreted as direct neighbor in terms of SupplyChain
+
+## Sample Enviornments
+### Chemical Environments 
+- Node color change by intervention following the path connected by the directed edges
+<img width="894" alt="Screen Shot 2021-08-02 at 10 11 54 PM" src="https://user-images.githubusercontent.com/21968222/127867376-3664eb56-3dd6-4d69-8ec5-3697297751a8.png">
 
 ## Literatures
 - Causal Discovery
