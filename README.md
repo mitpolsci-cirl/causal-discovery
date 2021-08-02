@@ -33,6 +33,11 @@ Literature about causal discovery
    - "Methods are needed to automate the inference and identification of such causal variables (i.e. causal induction) from low-level state
 representations (like images)." (https://arxiv.org/pdf/2107.00848.pdf)
 
+- Evaluation Metric for Causal Discovery
+   - <img width="992" alt="Screen Shot 2021-08-02 at 7 38 28 PM" src="https://user-images.githubusercontent.com/21968222/127848920-a63643e1-86de-4ccd-ac73-6e32135b2b4d.png">
+
+
+
 ## Key Terms
 - Structural Causal Models
    - The existence of a directed edge from A to B indicates that intervening on A directly impacts B, and the absence of an edge indicates no direct interventional
@@ -42,3 +47,5 @@ impact (see Appendix B for formal definitions). (* Does this explanation exclude
 - Definition of Model Based RL (MBRL)
    - <img width="342" alt="Screen Shot 2021-08-02 at 12 28 21 PM" src="https://user-images.githubusercontent.com/21968222/127800707-8b5648ca-6042-414f-b490-201727083a40.png">
   
+  
+
