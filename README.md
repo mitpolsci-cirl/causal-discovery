@@ -1,12 +1,11 @@
 # causal-discovery
-Literature about causal discovery
 
-## methodological class
+## classification of CD methods
 
-### score-based
+### 1. Score-based
 - generate a number of candidate causal graphs, assign a score to each, and select a final graph based on the scores. (combinatoric & search base)
 
-### constraint-based algorithms 
+### 2. Constraint-based algorithms 
 - construct the causal structure based on conditional independence constraints, 
 - may more fit to current DL algorithms
 - written by ElementAI https://arxiv.org/abs/2007.01754
